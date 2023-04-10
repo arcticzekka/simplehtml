@@ -1,0 +1,57 @@
+li{
+    list-style:none;
+    margin-left:10px;
+    color: rgb(59, 116, 113);
+    margin-top: 10px;
+    margin-left:110px;
+    color: rgb(59, 116, 113);
+    font-size: 30px;
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+h1{
+    margin-left: 40%;
+    margin-top: 20%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    color: rgb(59, 116, 113);
+}
+h1.odeljenje{
+    margin-left: 20%;
+}
+h1.autor{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: rgb(59, 116, 113);
+    text-align: center;
+}
+h1.odeljenje{
+    margin-left: 0%;
+    margin-top: 20%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: rgb(59, 116, 113);
+    text-align: center;
+}
+body{
+    background-image:url(941788.jpg);
+}
+table, th, td {
+    border: 1px solid rgb(59, 116, 113);
+    margin-top: 14%;
+    font-size: 30px;
+    color: rgb(59, 116, 113);
+    margin-left:34%;
+ }
+ img.img1{
+     margin-top: 10%;
+     margin-left: 20%;
+ }
+ img.img2{
+
+    margin-left: 20%;
+}
